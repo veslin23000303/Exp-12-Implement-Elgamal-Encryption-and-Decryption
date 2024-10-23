@@ -23,7 +23,9 @@ M = (C2 * (C1^x)^-1) mod p.
 Output the encrypted ciphertext (C1, C2) and the decrypted message.
 
 # PROGRAM:
-```C
+```
+NAME:VESLIN ANISH
+REGISTER NO:212223240175
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
